@@ -1,0 +1,3 @@
+evvvd bhrd   hhdhd In the previous section, you got up and running with Node. You learned how to read and write data from files on the server, allowing you to serve up a multi-page website. You may have found this process somewhat verbose and cumbersome, and may have even wondered how on Earth we would manage more complex use cases.
+
+In this course, we will be using a backend framework called Express, which will handle many of the implementation details for us. Express itself is an intentionally barebones and unopinionated framework; it allows us to do many things how we want, and to extend it with only the featur
